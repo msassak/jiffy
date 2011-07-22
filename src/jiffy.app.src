@@ -2,6 +2,5 @@
     {description, "JSON Decoder/Encoder."},
     {vsn, "v20110719"},
     {registered, []},
-    {mod, reloading, []},
     {applications, [kernel]}
 ]}.
